@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;K22_433MHz/Sources/RCSwitch.cpp&apos; to &apos;RCSwitch.c&apos;" description="Rename resource &apos;RCSwitch.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Sources/RCSwitch.cpp" name="RCSwitch.c" stamp="1458480169388" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;K22_433MHz/Sources/RCSwitch.c&apos; to &apos;RCSwitch.__c&apos;" description="Rename resource &apos;RCSwitch.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Sources/RCSwitch.c" name="RCSwitch.__c" stamp="1458481383443" updateReferences="true"/>
+</session>
